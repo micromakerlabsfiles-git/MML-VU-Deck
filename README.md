@@ -2,7 +2,7 @@
 
 Welcome to **MML VU-Deck Dual Display**!
 
-To flash your device or control it in real-time, open `index.html` in any Web Serial compatible browser (Google Chrome, Microsoft Edge, or Opera).
+To flash your device or control it in real-time, open [MML VU Deck Official Webcontroller](https://micromakerlabsfiles-git.github.io/MML-VU-Deck/) in any Web Serial compatible browser (Google Chrome, Microsoft Edge, or Opera).
 
 ---
 
